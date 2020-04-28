@@ -12,6 +12,7 @@ This extension works with:
 * Visual Studio 2017
 * Visual Studio 2019
 
+### Screenshots
 ![](https://aleksanderberus.gallerycdn.vsassets.io/extensions/aleksanderberus/debuggerimagevisualizerpreview/0.6.0/1556274284741/219157/1/Preview.gif)
 
 ## Changelog
