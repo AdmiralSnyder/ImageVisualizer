@@ -16,40 +16,7 @@ This extension works with:
 
 ## Changelog
 
-These are the changes to each version that has been released.
-
-### 0.7
-
-* Support for .NET Core 3.x
-
-### 0.6
-
-* Support for VS 2019
-
-### 0.5
-
-* Returned VS2010 support
-* Added support of WPF ImageSource / BitmapSource
-* Added support for custom ToBitmap() method
-
-### 0.4
-
-* VS Package (VS2010 support removed due to limitation on VSIX format)
-* UI fixes
-* Fixes for BitmapImage serialization
-
-### 0.3
-
-* Support for VS2017
-* Bug fixed (Visualizer only worked in VS2015)
-
-### 0.2
-
-* Support for VS 2013 and 15
-
-### 0.1
-
-* First preview release 
+All changes to each version that has been released are available in [Releases](../../releases).
 
 ## Contribute
 
